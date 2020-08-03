@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JAVA-CRUD-SERVLET:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAVA_CRUD_SERVLET_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JAVA-CRUD-SERVLET/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JAVA-CRUD-SERVLET" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
